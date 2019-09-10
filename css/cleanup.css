@@ -24,7 +24,7 @@ div#wall div#tag-3.slickd img{
   display: none;
 }
 
-body #wall .parent #tag-4 {
+body div#wall .parent div#tag-4 {
   background: url(../images/tag-4.png) no-repeat;
   z-index: 4;
   display: none;
